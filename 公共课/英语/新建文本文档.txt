@@ -1,0 +1,16 @@
+unit1
+ccbad   daacd
+unit2
+baacd   cdaca
+unit3
+dacda   bbdba
+unit4
+aacab   dacab
+unit5
+daaac   babda
+unit6
+dabad   dddaa
+unit7
+daabb   abdba
+unit8
+bdcba   bbdac
